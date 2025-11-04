@@ -1,0 +1,89 @@
+/* *{                 (astris is an everything selector, used to remove thing the browser controls)
+  margin: 0px;
+  padding: 0px; 
+
+} */ 
+
+
+h1 {
+  color:hsl(0, 100%, 99%);
+  font-size: 120px;
+  font-family:Caveat;
+  /* text-transform: uppercase; */
+  font-style: italic;
+  text-align: center;
+  padding: 15px;
+  /* border: solid 5px rgb(6, 0, 0); */
+  margin: 20px;
+  /* background-color: beige; */
+  /* text-decoration: underline; */
+   
+}
+
+ h2{
+  color:rgba(248, 248, 248, 0.905);
+  font-size:50px;
+  font-family:sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+ }
+
+p{
+  font-size: 20px;
+  font-family: serif;
+  line-height: 1.5;
+  color:rgba(247, 242, 242, 0.905);
+}
+
+html{
+  /* background-color:rgb(243, 210, 163); */
+  background: url(https://m.media-amazon.com/images/I/719lgfkEyUL.jpg) no-repeat center center fixed ;
+  background-size: cover;
+}
+ 
+p{
+  
+  a:hover { color: rgb(236, 170, 88); } 
+  /* color: purple; */  
+}
+
+b{
+  color:rgb(249, 244, 245);
+  font-size: 30px;
+ 
+}
+
+a{
+  color:rgb(249, 244, 245);
+  text-decoration:underline;
+  font-style: italic;
+}
+
+img{
+  display: block;
+   margin: 0 auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
