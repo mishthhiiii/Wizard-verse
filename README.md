@@ -128,8 +128,3 @@ Every contribution that expands the Wizarding World is welcome.
 ---
 ---
 
-## ⭐ Show Your Support
-
-If you enjoyed exploring WizardVerse, consider giving this repository a ⭐ on GitHub.
-
-*"Mischief Managed."*
