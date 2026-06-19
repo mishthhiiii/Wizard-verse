@@ -4,13 +4,19 @@
 
 ![WizardVerse Homepage](homepage/Screenshot%202026-06-19%20185446.png)
 
-> Explore the Wizarding World through legendary characters, ancient Hogwarts houses, magical creatures, powerful spells, and iconic moments from Harry Potter's universe.
+> A magical encyclopedia inspired by the Harry Potter universe, featuring legendary characters, Hogwarts houses, powerful spells, magical creatures, and iconic moments from the Wizarding World.
 
 ---
 
 ## 🌐 Live Demo
 
 🔗 **https://mishthhiiii.github.io/Wizard-verse/**
+
+---
+
+## 📂 Repository
+
+🔗 **https://github.com/mishthhiiii/Wizard-verse**
 
 ---
 
@@ -41,7 +47,7 @@ Designed with a modern dark-themed interface and magical aesthetics, WizardVerse
 
 Visit the live website:
 
-**https://mishthhiiii.github.io/Wizard-verse/**
+https://mishthhiiii.github.io/Wizard-verse/
 
 ### Clone the Repository
 
@@ -68,9 +74,9 @@ in any modern web browser.
 ### Run with VS Code
 
 1. Open the project folder in VS Code.
-2. Install the **Live Server** extension.
+2. Install the Live Server extension.
 3. Right-click on `index.html`.
-4. Click **Open with Live Server**.
+4. Select **Open with Live Server**.
 
 ### Download ZIP
 
@@ -99,15 +105,14 @@ in any modern web browser.
 Wizard-verse
 │
 ├── index.html
-├── harry potter.css
+├── style.css
 ├── README.md
 │
 ├── homepage/
 │   └── Screenshot 2026-06-19 185446.png
 │
 └── assets/
-    ├── images/
-  
+    └── images/
 ```
 
 ---
@@ -116,18 +121,11 @@ Wizard-verse
 
 Have an idea to make WizardVerse even more magical?
 
-Feel free to **fork this repository**, add your own spells, creatures, animations, characters, lore, or UI improvements, and submit a pull request.
+Feel free to fork this repository, add your own spells, creatures, animations, characters, lore, or UI improvements, and submit a pull request.
 
 Every contribution that expands the Wizarding World is welcome.
 
 ---
-
-## 👩‍💻 Author
-
-**Mishthi Chaurasia**
-
-- GitHub: https://github.com/mishthhiiii
-
 ---
 
 ## ⭐ Show Your Support
