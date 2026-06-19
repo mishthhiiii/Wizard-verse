@@ -2,44 +2,90 @@
 
 ## Harry Potter Encyclopedia
 
-![WizardVerse Homepage](assets/homepage/homepage.png)
+![WizardVerse Homepage](homepage/Screenshot%202026-06-19%20185446.png)
 
-A visually immersive Harry Potter-themed encyclopedia built using **HTML5** and **CSS3**. WizardVerse allows users to explore legendary characters, Hogwarts houses, magical creatures, spells, and important events from the Wizarding World through an elegant and responsive web experience.
+> Explore the Wizarding World through legendary characters, ancient Hogwarts houses, magical creatures, powerful spells, and iconic moments from Harry Potter's universe.
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Website](https://mishthhiiii.github.io/Harry-Potter-Characters---/)**
+🔗 **https://mishthhiiii.github.io/Wizard-verse/**
 
 ---
 
-## 📖 About The Project
+## 📖 About WizardVerse
 
-WizardVerse is a Harry Potter-inspired web encyclopedia designed for fans of the Wizarding World. The website presents information about iconic characters, Hogwarts houses, magical creatures, spells, and important events through a modern and engaging user interface.
+WizardVerse is a Harry Potter-inspired web encyclopedia built using **HTML5** and **CSS3**. The project brings together various aspects of the Wizarding World into a single platform where fans can explore characters, houses, creatures, spells, and historical events from the magical universe.
 
-The project was developed to strengthen front-end development skills while creating a visually appealing and responsive user experience.
+Designed with a modern dark-themed interface and magical aesthetics, WizardVerse aims to provide an engaging and immersive experience for Harry Potter enthusiasts.
 
 ---
 
 ## ✨ Features
 
-- 🏰 Hogwarts Houses Section
 - ⚡ Character Encyclopedia
+- 🏰 Hogwarts Houses Section
 - 🐉 Magical Creatures Collection
-- 🪄 Spells Gallery
-- 📜 Wizarding Timeline
-- 🎨 Custom Harry Potter Themed UI
-- 📱 Fully Responsive Design
+- 🪄 Famous Spells Gallery
+- 📜 Wizarding World Timeline
+- 📱 Responsive Design
+- 🎨 Custom Harry Potter Inspired Interface
 - 🚀 Deployed with GitHub Pages
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 How to Access WizardVerse
+
+### View Online
+
+Visit the live website:
+
+**https://mishthhiiii.github.io/Wizard-verse/**
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/mishthhiiii/Wizard-verse.git
+```
+
+### Navigate to the Project Directory
+
+```bash
+cd Wizard-verse
+```
+
+### Run Locally
+
+Open:
+
+```text
+index.html
+```
+
+in any modern web browser.
+
+### Run with VS Code
+
+1. Open the project folder in VS Code.
+2. Install the **Live Server** extension.
+3. Right-click on `index.html`.
+4. Click **Open with Live Server**.
+
+### Download ZIP
+
+1. Click the **Code** button on GitHub.
+2. Select **Download ZIP**.
+3. Extract the downloaded ZIP file.
+4. Open `index.html` in your browser.
+
+---
+
+## 🛠️ Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
-| HTML5 | Website Structure |
+| HTML5 | Structure & Content |
 | CSS3 | Styling & Layout |
 | Git | Version Control |
 | GitHub | Repository Hosting |
@@ -47,9 +93,46 @@ The project was developed to strengthen front-end development skills while creat
 
 ---
 
-## 🚀 Getting Started
+## 📂 Project Structure
 
-### Clone the Repository
+```text
+Wizard-verse
+│
+├── index.html
+├── harry potter.css
+├── README.md
+│
+├── homepage/
+│   └── Screenshot 2026-06-19 185446.png
+│
+└── assets/
+    ├── images/
+    ├── icons/
+    └── other resources/
+```
 
-```bash
-git clone https://github.com/mishthhiiii/Harry-Potter-Characters---.git
+---
+
+## 🤝 Contributing
+
+Have an idea to make WizardVerse even more magical?
+
+Feel free to **fork this repository**, add your own spells, creatures, animations, characters, lore, or UI improvements, and submit a pull request.
+
+Every contribution that expands the Wizarding World is welcome.
+
+---
+
+## 👩‍💻 Author
+
+**Mishthi Chaurasia**
+
+- GitHub: https://github.com/mishthhiiii
+
+---
+
+## ⭐ Show Your Support
+
+If you enjoyed exploring WizardVerse, consider giving this repository a ⭐ on GitHub.
+
+*"Mischief Managed."*
