@@ -107,8 +107,7 @@ Wizard-verse
 │
 └── assets/
     ├── images/
-    ├── icons/
-    └── other resources/
+  
 ```
 
 ---
